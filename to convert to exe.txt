@@ -1,0 +1,3 @@
+pyinstaller Main.py --key 123456 -n AutoMeet --icon=Icon-big.ico -F -w --upx-dir d:\upx-3.96-win64\
+--onefile
+--upx-exclude=MSVCP140.dll
