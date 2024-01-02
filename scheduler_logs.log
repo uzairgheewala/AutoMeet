@@ -1,0 +1,10 @@
+2024-01-03 02:04:21,130:INFO:Scheduler started
+2024-01-03 02:04:30,130:INFO:Scheduler started
+2024-01-03 02:04:42,442:INFO:Scheduler started
+2024-01-03 02:05:11,265:INFO:Scheduler started
+2024-01-03 02:05:16,854:INFO:Scheduler started
+2024-01-03 02:08:17,867:INFO:Scheduler started
+2024-01-03 02:10:11,688:INFO:Scheduler started
+2024-01-03 02:10:35,867:INFO:Added job "run_meeting" to job store "default"
+2024-01-03 02:11:00,002:INFO:Running job "run_meeting (trigger: cron[day_of_week='2', hour='2', minute='11'], next run at: 2024-01-03 02:11:00 +05)" (scheduled at 2024-01-03 02:11:00+05:00)
+2024-01-03 02:11:00,076:INFO:Job "run_meeting (trigger: cron[day_of_week='2', hour='2', minute='11'], next run at: 2024-01-10 02:11:00 +05)" executed successfully
